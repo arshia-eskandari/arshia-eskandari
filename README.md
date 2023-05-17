@@ -1,13 +1,15 @@
 Arshia Eskandari
-- Intermediate/Advanced JavaScript
+- Advanced JavaScript
+- Advanced HTML and CSS
+- Advanced React JS
+- Intermediate Node JS
 - Intermediate PHP
 - Intermediate Python
-- Intermediate HTML and CSS
 - Intermediate MySQL
-- Basic WordPress
-- Conestoga College graduate (Web Development Certificate)
+- Intermediate WordPress
+- Conestoga College Graduate with a Web Development Certificate
 - Looking forward to collaborating on web projects
-- Reach out to me on Instagram @shieldbearerkratos
+- Reach out to me on my website aeskandari.com
 
 <!---
 arshia-eskandari/arshia-eskandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
